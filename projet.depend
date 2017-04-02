@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1491168765 source:c:\users\essefar\desktop\projet\classe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"classe.h"
+
+1491168765 c:\users\essefar\desktop\projet\classe.h
+
+1491168916 source:c:\users\essefar\desktop\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"classe.h"
+
